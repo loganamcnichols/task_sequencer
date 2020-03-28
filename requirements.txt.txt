@@ -1,0 +1,7 @@
+matplotlib=3.1.3
+ipywidgets=7.5.1
+ipysheet=0.4.3
+nodejs=10.13.0
+numpy=1.18.1
+pandas=1.0.3
+widgetsnbextension=3.5.1

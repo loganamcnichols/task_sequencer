@@ -1,0 +1,12 @@
+name: task_seq
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - nodejs
+  - ipywidgets
+  - pip
+  - pip:
+    - ipysheet

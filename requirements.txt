@@ -5,5 +5,5 @@ nodejs
 pandas
 ipywidgets
 pip
-voila
 ipysheet
+voila

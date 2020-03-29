@@ -1,9 +1,0 @@
-python
-numpy
-matplotlib
-nodejs
-pandas
-ipywidgets
-pip
-ipysheet
-voila

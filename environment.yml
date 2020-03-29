@@ -9,6 +9,6 @@ dependencies:
   - pandas
   - ipywidgets
   - pip
+  - voila
   - pip:
     - ipysheet
-    - voila

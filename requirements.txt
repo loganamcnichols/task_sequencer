@@ -1,0 +1,9 @@
+python
+numpy
+matplotlib
+nodejs
+pandas
+ipywidgets
+pip
+voila
+ipysheet

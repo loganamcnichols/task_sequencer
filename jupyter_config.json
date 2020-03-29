@@ -1,6 +1,6 @@
 {
   "VoilaConfiguration": {
-    "enable_nbextensions": true
+    "enable_nbextensions": true,
     "file_whitelist": "['.*']"
   }
 }

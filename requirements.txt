@@ -1,3 +1,4 @@
+voila
 numpy
 pandas
 ipywidgets
@@ -5,4 +6,4 @@ nodejs
 ipysheet
 widgetsnbextension
 matplotlib
-voila
+

@@ -1,7 +1,7 @@
 {
   "VoilaConfiguration": {
     "enable_nbextensions": true,
-    VoilaConfiguration.file_whitelist : "['.*']",
-    VoilaConfiguration.file_blacklist : "['ipynb']"
+    "file_whitelist" : [".*"],
+    "file_blacklist" : ["ipynb"]
   }
 }

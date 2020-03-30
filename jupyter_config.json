@@ -2,6 +2,6 @@
   "VoilaConfiguration": {
     "enable_nbextensions": true,
     "file_whitelist" : "['.*']",
-    "file_blacklist" : "['private.*', '.*\.(ipynb)']"
+    "file_blacklist" : "['private.*']"
   }
 }

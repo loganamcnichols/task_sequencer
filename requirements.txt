@@ -6,4 +6,5 @@ nodejs
 ipysheet
 widgetsnbextension
 matplotlib
+symbulate
 

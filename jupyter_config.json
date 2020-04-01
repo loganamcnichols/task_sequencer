@@ -1,7 +1,7 @@
 {
   "VoilaConfiguration": {
     "enable_nbextensions": true,
-    "file_whitelist" : [".*/.csv"],
+    "file_whitelist" : [".*"],
     "file_blacklist" : ["ipynb"]
   }
 }

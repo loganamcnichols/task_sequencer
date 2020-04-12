@@ -7,4 +7,5 @@ ipysheet
 widgetsnbextension
 matplotlib
 symbulate
+more_itertools
 
